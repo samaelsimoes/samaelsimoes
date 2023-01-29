@@ -2,7 +2,6 @@
 
 
 <div>
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
@@ -12,7 +11,11 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=samaelsimoes)
 
 </div>
-  
+  <div>
+  <a href="https://github.com/samaelsimoes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samaelsimoes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaelsimoes&layout=compact&langs_count=7&theme=gotham" />
+</div>
   <div>
   <a href="mailto:samael.simoes@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
