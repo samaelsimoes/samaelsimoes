@@ -2,9 +2,8 @@
 
 
 <div>
-  <a href="https://github.com/samaelsimoes">
-    <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api?username=simoesSamael&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=simoesSamael&layout=compact&langs_count=7&theme=gotham" />
+  ![Samae's GitHub stats](https://github-readme-stats.vercel.app/api?username=samaelsimoes&show_icons=true&theme=dark&hide_border=true&bg_color=161b22)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samaelsimoes&layout=compact&theme=dark&langs_count=10&hide_border=true&bg_color=161b22)
 </div>
   
   <div>
