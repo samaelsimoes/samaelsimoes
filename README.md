@@ -1,4 +1,5 @@
 ### Hello! my name is Samael Simoes, I'm a Full-stack Developer who is currently focusing on Front-end stuff
+###I consider myself a full stack developer, because I know a huge amount of technologies
 
 
 <div>
