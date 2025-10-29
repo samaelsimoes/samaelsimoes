@@ -1,68 +1,74 @@
-### Hello! my name is Samael Simoes, I'm a Full-stack Developer who is currently focusing on Front-end stuff
-###I consider myself a full stack developer, because I know a huge amount of technologies
+# 👋 Hello, I'm Samael Pereira Simões  
 
+### 💻 Full-Stack Software Engineer | Java • Spring Boot • Angular • TypeScript • React  
 
-<div>
-  
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=samaelsimoes)
+I'm a passionate developer with **10+ years of experience** building enterprise systems across **industrial, banking, healthcare, and logistics** sectors.  
+Currently focusing on **Front-end architectures** and **modernizing legacy back-ends** with clean code and microservices.
 
-</div>
-  <div>
-  <a href="https://github.com/samaelsimoes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samaelsimoes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaelsimoes&layout=compact&langs_count=7&theme=gotham" />
-</div>
-  <div>
-  <a href="mailto:samael.simoes@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+---
+
+### 🧠 About Me
+- 🎓 Degree in **Software Engineering** and **Systems Analysis & Development**  
+- 🧩 Skilled in **architecture design, clean code, and integrations between complex systems**  
+- 🚀 Passionate about turning ideas into scalable digital solutions  
+- 🌍 Open to opportunities in Brazil and abroad  
+
+---
+
+### ⚡ Tech Stack
+
+#### 🧱 Back-End
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+#### 🎨 Front-End
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### 🛠️ Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samaelsimoes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaelsimoes&layout=compact&langs_count=8&theme=gotham" />
+</p>
+
+<p align="center">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=samaelsimoes&theme=gotham" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:samael.simoes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/samaelsimoes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/samaelsimoes/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/10588954/samael-pereira-sim%c3%b5es" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  <a href="https://stackoverflow.com/users/10588954/samael-pereira-sim%c3%b5es">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
-    
-   <a href="https://www.instagram.com/samael_simoes/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/samael_simoes/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</div>
-  <br/>
-  
-##
-  
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</p>
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+---
 
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  
-   <img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" />
-   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-
-</div>
+⭐️ From [@samaelsimoes](https://github.com/samaelsimoes)
