@@ -1,0 +1,32 @@
+name: Atualizar métricas do perfil
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 9 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Gerar gráficos com contribuições públicas reais
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USERNAME: samaelsimoes
+        run: python scripts/generate_metrics.py
+      - name: Publicar imagens atualizadas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "docs: refresh GitHub contribution charts"
+            git push
+          fi
