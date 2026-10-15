@@ -1,180 +1,172 @@
-<!-- Profile README for github.com/samaelsimoes -->
 <div align="center">
 
-# 👋 Hello, I'm Samael Pereira Simões
+# Hello, I'm Samael Pereira Simões 👋
 
-### Senior Full-Stack Software Engineer • Software Architecture • Founder & CEO
+### Senior Full-Stack Software Engineer · Software Architecture · Founder & CEO
 
-**10+ years turning complex business requirements into secure, scalable and maintainable enterprise software.**
+**10+ years building, modernizing and integrating enterprise software.**
 
-Building across **banking • healthcare • industrial systems • logistics**.
+Java & Spring Boot · Angular & React · Distributed Systems · AWS · Secure Integrations
 
-[![Portfolio](https://img.shields.io/badge/SPS_Technology-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://spstechnology.com.br/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samaelsimoes/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samael.simoes@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-samaelsimoes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samaelsimoes)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-Visit_Website-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://samaelsimoes.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samaelsimoes/)
+[![SPS Technology](https://img.shields.io/badge/SPS_Technology-Company-238636?style=for-the-badge&logo=googlechrome&logoColor=white)](https://spstechnology.com.br/)
+[![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samael.simoes@gmail.com)
 
-![Profile visitors](https://komarev.com/ghpvc/?username=samaelsimoes&label=Profile%20views&color=58A6FF&style=flat-square)
-![Experience](https://img.shields.io/badge/Experience-10%2B%20years-238636?style=flat-square)
-![Location](https://img.shields.io/badge/Based%20in-Brazil-0A66C2?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=samaelsimoes&style=flat-square&color=58a6ff&label=Profile+Views)
+![Experience](https://img.shields.io/badge/Experience-10%2B_Years-238636?style=flat-square)
+![Location](https://img.shields.io/badge/Based_in-Brazil-0A66C2?style=flat-square)
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## 🚀 About Me
 
-I'm a **Senior Full-Stack Software Engineer** with **10+ years of experience** developing and modernizing enterprise systems. I specialize in **Java, Spring Boot, Angular, React and TypeScript**, with hands-on experience in APIs, distributed architectures, database-intensive applications and cloud infrastructure.
+I'm a **Senior Full-Stack Software Engineer** with more than **10 years of professional experience** delivering software solutions for **banking, healthcare, industrial operations, and logistics**.
 
-As **Founder & CEO of [SPS Digital Solutions Technology](https://spstechnology.com.br/)**, I combine engineering execution with architecture, consulting and business strategy. I care about software that is reliable in production—not just code that works in a demo.
+My focus is on **software architecture, enterprise Java, modern front-end engineering, system integrations, reliability, and performance**. I work across the entire software lifecycle—from understanding business requirements and designing APIs to implementing scalable services, maintaining production applications, and improving developer workflows.
 
-- 🏗️ **Architecture:** Clean Architecture, SOLID, microservices, service integration and distributed systems.
-- 🔄 **Modernization:** Evolving legacy applications while preserving reliability and business continuity.
-- 🔐 **Security:** Identity and access management, authentication, authorization and secure integrations.
-- ☁️ **Cloud:** AWS, Docker, Terraform, delivery automation and CI/CD pipelines.
-- 🧪 **Quality:** Automated testing, code reviews, maintainable design and performance optimization.
-- 🎓 **Education:** Degrees in Software Engineering and Systems Analysis & Development.
-- 🌎 **Collaboration:** Open to international partnerships and remote software engineering opportunities.
+I'm also the **Founder & CEO of [SPS Digital Solutions Technology](https://spstechnology.com.br/)**, a software company focused on custom applications, consulting, integrations, and outsourcing.
+
+- 🏗️ **Architecture:** Clean Architecture, SOLID, design patterns, microservices and distributed systems
+- 🔄 **Modernization:** legacy applications, refactoring, API evolution and system interoperability
+- 🔐 **Security:** authentication, authorization, IAM and secure enterprise integration
+- ☁️ **Cloud & delivery:** AWS, containers, infrastructure automation and CI/CD
+- 🧪 **Engineering quality:** automated testing, maintainable code, technical reviews and performance
+- 🎓 **Education:** Software Engineering and Systems Analysis & Development degrees
+- 🌍 **Collaboration:** Brazil-based; interested in international software engineering partnerships
 
 ---
 
-## 📊 GitHub Developer Dashboard
+## 📊 GitHub Analytics · Live Dashboard
 
 <div align="center">
 
-### Overall statistics · commits, pull requests, issues and stars
+### Commits this year · active days · contributions · PRs · issues
 
-<a href="https://github.com/samaelsimoes">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=samaelsimoes&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="GitHub statistics including commits, pull requests, issues and stars" />
-</a>
-<a href="https://github.com/samaelsimoes?tab=repositories">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaelsimoes&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top programming languages in public repositories" />
-</a>
+![Current-year GitHub dashboard](./assets/commit-dashboard.svg)
 
-### Annual contribution calendar · active days over the last 12 months
+### Commits per month · current year
 
-<a href="https://github.com/samaelsimoes?tab=overview">
-  <img width="100%" src="https://ghchart.rshah.org/58A6FF/samaelsimoes" alt="Daily GitHub contribution heatmap over the past year" />
-</a>
+![Monthly commit totals](./assets/monthly-commits.svg)
 
-### Contributions by month · last 12 months
+### Commit history · year by year
 
-<a href="https://github.com/samaelsimoes?tab=overview">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samaelsimoes&theme=tokyonight" alt="Activity and contribution volume across the last 12 months" />
-</a>
+![Annual commits](./assets/yearly-commits.svg)
 
-### Commit streak · current and longest consecutive activity
+### GitHub statistics
 
-<a href="https://github.com/samaelsimoes?tab=overview">
-  <img width="65%" src="https://streak-stats.demolab.com?user=samaelsimoes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Current and longest contribution streak, with total contributions" />
-</a>
+<img height="175" alt="GitHub summary statistics" src="https://github-readme-stats.vercel.app/api?username=samaelsimoes&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="175" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaelsimoes&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
 
-### Coding activity · commits over time
+### Daily contributions · last 12 months
 
-<a href="https://github.com/samaelsimoes?tab=overview">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samaelsimoes&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20-%20Last%2012%20Months" alt="GitHub contribution activity graph over the past year" />
-</a>
+<img width="100%" alt="GitHub contribution calendar" src="https://ghchart.rshah.org/58a6ff/samaelsimoes" />
 
-### Languages by repositories and commits
+### Current streak · longest streak · total contributions
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samaelsimoes&theme=tokyonight" alt="Public repositories per language" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samaelsimoes&theme=tokyonight" alt="Languages represented by public commits" />
+<img width="70%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=samaelsimoes&theme=tokyonight&hide_border=true" />
 
-### Most productive hours · visible GitHub activity
+### Contribution activity graph
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samaelsimoes&theme=tokyonight&utcOffset=-3" alt="Productivity by hour in UTC minus 3" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samaelsimoes&theme=tokyonight" alt="Aggregate commits and other GitHub statistics" />
+<img width="100%" alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=samaelsimoes&theme=tokyo-night&hide_border=true&area=true" />
 
-### Achievements and trophies
+### Contribution overview · languages by repo and commits
 
-<a href="https://github.com/samaelsimoes?tab=achievements">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=samaelsimoes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=5" alt="GitHub profile trophies" />
-</a>
+<img width="100%" alt="Contribution summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samaelsimoes&theme=tokyonight" />
+
+<img width="48%" alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samaelsimoes&theme=tokyonight" />
+<img width="48%" alt="Most committed languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samaelsimoes&theme=tokyonight" />
+
+### Coding hours · additional stats
+
+<img width="48%" alt="Productive hours" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samaelsimoes&theme=tokyonight&utcOffset=-3" />
+<img width="48%" alt="Additional contribution statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samaelsimoes&theme=tokyonight" />
 
 </div>
 
-> **How to interpret these numbers:** Contributions include more than commits (such as pull requests and issues); contribution calendars display days with activity, not necessarily one commit per square. Different third-party cards may use different date ranges and omit private or enterprise activity. `count_private=true` does **not** grant the public stats service access to private repositories. For the authoritative calendar and selectable **year-by-year** history, view [my GitHub contribution history](https://github.com/samaelsimoes?tab=overview).
-
 ---
 
-## 🗓️ Contribution history · year by year
+## 🧰 Technologies & Tools
 
-The GitHub profile itself provides a selectable contribution calendar for each year. Choose a year to inspect **contribution totals, months, and individual active days**.
+### Back-End & Enterprise Java
 
-**[View contribution calendar, select the year, and inspect each day →](https://github.com/samaelsimoes?tab=overview)**
-
-> Live year-by-year **numerical totals** require an authenticated GitHub GraphQL query or a scheduled GitHub Action. They cannot be accurately inferred from these public widgets alone. I prefer not to present fabricated commit totals.
-
----
-
-## 🛠️ Engineering stack
-
-### Back-end and APIs
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0B7285?style=for-the-badge)
+![REST](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
 
-### Front-end and mobile
+### Front-End & Mobile
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Databases and messaging
+### Databases, Messaging & Integration
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![ActiveMQ](https://img.shields.io/badge/ActiveMQ-D22128?style=for-the-badge)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
 
-### Cloud, delivery, and security
+### Cloud, DevOps, Security & Testing
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-**Engineering principles:** `Clean Architecture` · `SOLID` · `Microservices` · `Distributed Systems` · `Code Review` · `CI/CD` · `Automated Testing` · `Legacy Modernization` · `Security by Design`
-
----
-
-## 💼 Experience and impact
-
-| Area | What I work on |
-|---|---|
-| **Enterprise platforms** | Business-critical workflows, back-end services and complex integrations. |
-| **Modern front ends** | Component-driven applications with Angular, React and TypeScript. |
-| **Legacy modernization** | Refactoring, migration and interoperability with existing enterprise systems. |
-| **Distributed architecture** | Microservices, asynchronous messaging, APIs and integration patterns. |
-| **Cloud & operations** | AWS infrastructure, deployments, environment automation and reliability. |
-| **Engineering leadership** | Architecture discussions, mentoring, technical decisions and maintainable delivery. |
+**Engineering practices:** `Clean Architecture` · `SOLID` · `Microservices` · `Event-Driven Design` · `REST APIs` · `Security by Design` · `CI/CD` · `Testing` · `Code Reviews` · `Performance Optimization`
 
 ---
 
-## 🏢 SPS Digital Solutions Technology
+## 💼 What I Build
 
-I founded **[SPS Digital Solutions Technology](https://spstechnology.com.br/)** to help organizations design, build, integrate and evolve software products.
-
-Our work includes **custom systems, web applications, systems integration, technology consulting, software outsourcing and legacy modernization**.
-
-[![Visit SPS Technology](https://img.shields.io/badge/Explore_SPS_Technology-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://spstechnology.com.br/)
+| Area | Focus |
+| --- | --- |
+| 🏦 **Banking & Enterprise** | Reliable APIs, secure transactions and complex business workflows |
+| 🏥 **Healthcare** | Integration, reporting, monitoring and business-critical applications |
+| 🏭 **Industrial & Logistics** | Operational platforms, integration flows and process automation |
+| 🏗️ **Software Architecture** | Service boundaries, clean code, distributed communication and maintainability |
+| 🔄 **Legacy Modernization** | Gradual migrations, refactoring and integration with established systems |
+| ☁️ **Cloud & DevOps** | AWS services, deployments, CI/CD, environments and observability |
 
 ---
 
-## 📫 Let's connect
+## 🏢 Founder · SPS Digital Solutions Technology
+
+At **[SPS Digital Solutions Technology](https://spstechnology.com.br/)**, I work on **custom software development, web platforms, business integrations, outsourcing, consulting and modernization** for organizations that need technology aligned with real operational goals.
+
+[![Company Website](https://img.shields.io/badge/SPS_Technology-Explore_Our_Services-238636?style=for-the-badge&logo=googlechrome&logoColor=white)](https://spstechnology.com.br/)
+[![Personal Portfolio](https://img.shields.io/badge/Personal_Portfolio-View_My_Work-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://samaelsimoes.github.io/)
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-samaelsimoes.github.io-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://samaelsimoes.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samaelsimoes/)
-[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samael.simoes@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samael.simoes@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10588954/samael-pereira-sim%C3%B5es)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samael_simoes/)
 
