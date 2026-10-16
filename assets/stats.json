@@ -1,0 +1,32 @@
+{
+  "username": "samaelsimoes",
+  "as_of": "2026-10-16",
+  "year": 2026,
+  "commits_year": 6,
+  "commits_month": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    6,
+    0,
+    0
+  ],
+  "active_days_year": 2,
+  "contributions_year": 10,
+  "pull_requests_year": 3,
+  "issues_year": 0,
+  "yearly_commits": {
+    "2021": 0,
+    "2022": 0,
+    "2023": 104,
+    "2024": 21,
+    "2025": 11,
+    "2026": 6
+  }
+}

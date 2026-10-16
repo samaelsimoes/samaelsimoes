@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="342" viewBox="0 0 1100 342" role="img" aria-label="2026 · Commits by month">
+<rect width="1100" height="342" rx="16" fill="#0d1117" stroke="#30363d"/>
+<text x="30" y="43" font-size="23" font-family="Arial,sans-serif" font-weight="700" fill="#e6edf3">2026 · Commits by month</text>
+<rect x="48" y="251" width="44" height="2" rx="5" fill="#58a6ff"/>
+<text x="70" y="240" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#e6edf3">0</text>
+<text x="70" y="283" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#8b949e">Jan</text>
+<rect x="135" y="251" width="44" height="2" rx="5" fill="#58a6ff"/>
+<text x="157" y="240" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#e6edf3">0</text>
+<text x="157" y="283" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#8b949e">Feb</text>
+<rect x="222" y="251" width="44" height="2" rx="5" fill="#58a6ff"/>
+<text x="244" y="240" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#e6edf3">0</text>
+<text x="244" y="283" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#8b949e">Mar</text>
+<rect x="309" y="251" width="44" height="2" rx="5" fill="#58a6ff"/>
+<text x="331" y="240" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#e6edf3">0</text>
+<text x="331" y="283" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#8b949e">Apr</text>
+<rect x="396" y="251" width="44" height="2" rx="5" fill="#58a6ff"/>
+<text x="418" y="240" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#e6edf3">0</text>
+<text x="418" y="283" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#8b949e">May</text>
+<rect x="483" y="251" width="44" height="2" rx="5" fill="#58a6ff"/>
+<text x="505" y="240" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#e6edf3">0</text>
+<text x="505" y="283" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#8b949e">Jun</text>
+<rect x="570" y="251" width="44" height="2" rx="5" fill="#58a6ff"/>
+<text x="592" y="240" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#e6edf3">0</text>
+<text x="592" y="283" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#8b949e">Jul</text>
+<rect x="657" y="251" width="44" height="2" rx="5" fill="#58a6ff"/>
+<text x="679" y="240" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#e6edf3">0</text>
+<text x="679" y="283" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#8b949e">Aug</text>
+<rect x="744" y="251" width="44" height="2" rx="5" fill="#58a6ff"/>
+<text x="766" y="240" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#e6edf3">0</text>
+<text x="766" y="283" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#8b949e">Sep</text>
+<rect x="831" y="81" width="44" height="170" rx="5" fill="#58a6ff"/>
+<text x="853" y="70" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#e6edf3">6</text>
+<text x="853" y="283" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#8b949e">Oct</text>
+<rect x="918" y="251" width="44" height="2" rx="5" fill="#58a6ff"/>
+<text x="940" y="240" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#e6edf3">0</text>
+<text x="940" y="283" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#8b949e">Nov</text>
+<rect x="1005" y="251" width="44" height="2" rx="5" fill="#58a6ff"/>
+<text x="1027" y="240" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#e6edf3">0</text>
+<text x="1027" y="283" font-family="Arial,sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#8b949e">Dec</text>
+<text x="42" y="317" font-family="Arial,sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#8b949e">Calendar year · commits recorded in GitHub contributions</text>
+</svg>
