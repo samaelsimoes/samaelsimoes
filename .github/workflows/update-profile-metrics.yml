@@ -1,32 +1,50 @@
-name: Atualizar métricas do perfil
 
+name: Atualizar métricas do perfil
 on:
   workflow_dispatch:
   schedule:
     - cron: '23 9 * * *'
-
 permissions:
   contents: write
-
+concurrency:
+  group: profile-metrics-update
+  cancel-in-progress: false
 jobs:
   update-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - name: Configurar Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Gerar gráficos com contribuições públicas reais
+      - name: Gerar gráficos
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PROFILE_USERNAME: samaelsimoes
         run: python scripts/generate_metrics.py
-      - name: Publicar imagens atualizadas
+      - name: Publicar gráficos atualizados
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/*.svg
-          if ! git diff --cached --quiet; then
-            git commit -m "docs: refresh GitHub contribution charts"
-            git push
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração encontrada"
+            exit 0
           fi
+          git commit -m "docs: refresh GitHub contribution charts"
+          for tentativa in 1 2 3 4 5; do
+            git fetch origin main
+            git rebase origin/main || exit 1
+            if git push origin HEAD:main; then
+              echo "Gráficos publicados com sucesso"
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "Não foi possível publicar após 5 tentativas"
+          exit 1
