@@ -1,0 +1,31 @@
+name: Update bilingual profile contribution charts
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 7 * * *'
+permissions:
+  contents: write
+jobs:
+  charts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate charts from GitHub GraphQL
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: samaelsimoes
+        run: python scripts/generate_profile_charts.py
+      - name: Commit generated SVG files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-calendar.svg assets/monthly-activity.svg assets/contribution-breakdown.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update profile charts"
+            git push
+          fi
