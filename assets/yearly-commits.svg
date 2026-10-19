@@ -16,8 +16,8 @@
 <rect x="755" y="250" width="90" height="20" rx="5" fill="#58a6ff"/>
 <text x="800" y="238" font-family="Arial,sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#e6edf3">11</text>
 <text x="800" y="301" font-family="Arial,sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#8b949e">2025</text>
-<rect x="925" y="260" width="90" height="10" rx="5" fill="#3fb950"/>
-<text x="970" y="248" font-family="Arial,sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#e6edf3">6</text>
+<rect x="925" y="252" width="90" height="18" rx="5" fill="#3fb950"/>
+<text x="970" y="240" font-family="Arial,sans-serif" font-size="17" font-weight="bold" text-anchor="middle" fill="#e6edf3">10</text>
 <text x="970" y="301" font-family="Arial,sans-serif" font-size="17" font-weight="normal" text-anchor="middle" fill="#8b949e">2026*</text>
 <text x="42" y="339" font-family="Arial,sans-serif" font-size="13" font-weight="normal" text-anchor="start" fill="#8b949e">* Current year in progress · annual contributions attributed by GitHub</text>
 </svg>
