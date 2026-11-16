@@ -4,7 +4,7 @@
 
 ### Senior Full-Stack Software Engineer | Software Architecture | Cloud & Distributed Systems
 
-**Java · Spring Boot · Angular · React · TypeScript · AWS · Microservices**
+**Java · Spring Boot · Angular · React · TypeScript · AWS · Microservices · Lua**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samaelsimoes.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samaelsimoes/)
